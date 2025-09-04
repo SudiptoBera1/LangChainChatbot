@@ -1,4 +1,4 @@
-# 🚀 RAG App with LangChain, FAISS, and Chainlit
+# LangChain RAG Chatbot 🤖
 
 This project is a **Retrieval-Augmented Generation (RAG)** chatbot that combines **Large Language Models (LLMs)** with a **custom knowledge base**.  
 Instead of relying only on the LLM’s internal training data, this app lets you load documents (e.g., GitHub repos, sitemaps, or text files), convert them into **embeddings**, and store them in a **FAISS vector database**.  
