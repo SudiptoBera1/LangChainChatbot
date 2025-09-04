@@ -73,14 +73,5 @@ chainlit run app.py -w
 ```
 Then open [http://localhost:8000](http://localhost:8000) in your browser 🚀
 
----
 
-## 🛑 Notes
-- Do **NOT** commit your real `.env` file.  
-- `faiss_index/` is ignored (can be rebuilt anytime).  
-- Tested with **Python 3.10+**.
 
----
-
-## 📜 License
-This project is licensed under the MIT License.
